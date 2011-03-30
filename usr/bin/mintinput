@@ -1,0 +1,20 @@
+#!/bin/sh
+
+if [ ! -d "$HOME/.linuxmint" ]; then
+	mkdir -p $HOME/.linuxmint
+fi
+
+if [ ! -f "$HOME/.linuxmint/sks" ]; then
+	touch $HOME/.linuxmint/sks
+	echo "#!/bin/sh" > $HOME/.linuxmint/sks
+	chmod +x $HOME/.linuxmint/sks
+fi
+
+if [ ! -f "$HOME/.linuxmint/sms" ]; then
+	touch $HOME/.linuxmint/sms
+	echo "#!/bin/sh" > $HOME/.linuxmint/sms
+	chmod +x $HOME/.linuxmint/sms
+fi
+
+/usr/lib/linuxmint/mintinput/mintinput.py
+

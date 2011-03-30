@@ -1,0 +1,14 @@
+Source: mintinput
+Section: x11
+Priority: required
+Maintainer: Kendall Weaver <kendalltweaver@gmail.com>
+Build-Depends: debhelper (>= 5.0.0)
+Standards-Version: 3.8.4
+
+Package: mintinput
+Depends: python
+Recommends: mint-fluxbox-default-settings
+Architecture: all 
+Description:  Keyboard and Mouse settings app for Mint Fluxbox and LXDE.
+ Keyboard and Mouse settings app for Mint Fluxbox and LXDE.
+ 

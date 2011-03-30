@@ -1,0 +1,4 @@
+#!/bin/sh
+$HOME/.linuxmint/sks
+$HOME/.linuxmint/sms
+exit 0

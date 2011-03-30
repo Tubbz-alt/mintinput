@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-13 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:35
+msgid "Keyboard and Mouse"
+msgstr "Toetsenbord en Muis"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:40
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:41
+msgid "Mouse"
+msgstr "Muis"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:56
+msgid "Select layout"
+msgstr "Kies Layout"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:60
+msgid "Delay"
+msgstr "Vertraging"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:68
+msgid "Interval"
+msgstr "Interval"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:76
+msgid "Touchpad enabled"
+msgstr "Touchpad Geactiveerd"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:77
+msgid "Left Handed"
+msgstr "Linkshandig"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:80
+msgid "Acceleration"
+msgstr "Versnelling"
+
+#: usr/lib/linuxmint/mintinput/mintInput.py:87
+msgid "Threshold"
+msgstr "Drempel"

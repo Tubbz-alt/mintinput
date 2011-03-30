@@ -1,0 +1,39 @@
+mintinput (1.4~peppermint1) natty; urgency=low
+
+  * Repackaged for Peppermint Two.
+  * Removed "Select Layout" option as this is now covered
+    by lxkeymap.
+
+ -- Kendall Weaver <kendall@peppermintos.com>  23 Mar 2011 15:52:30 -0400
+
+mintinput (1.3~peppermint1) lucid; urgency=low
+
+  * Added option for Horizontol Scrolling.
+  * Added option for Vertical Scrolling.
+
+ -- Kendall Weaver <kendalltweaver@gmail.com>  09 Nov 2010 01:01:24 -0400
+
+mintinput (1.2~peppermint1) lucid; urgency=low
+
+  * Added default settings to template files
+
+ -- Kendall Weaver <kendalltweaver@gmail.com>  22 May 2010 15:56:32 -0400
+
+mintinput (1.1~peppermint1) lucid; urgency=low
+
+  * Repackaged for Peppermint OS
+
+ -- Kendall Tristan Weaver <kendalltweaver@gmail.com>  11 May 2010 15:55:24 -0400
+
+mintinput (1.1) isadora-fluxbox; urgency=low
+
+  * Change default ranges and values for keyboard settings
+
+ -- Kendall Tristan Weaver <kendalltweaver@gmail.com>  07 May 2010 16:27:42 -0400
+
+mintinput (1.0) isadora-fluxbox; urgency=low
+
+  * Initial release
+
+ -- Kendall Tristan Weaver <kendalltweaver@gmail.com>  12 Apr 2010 13:23:00 -0400
+

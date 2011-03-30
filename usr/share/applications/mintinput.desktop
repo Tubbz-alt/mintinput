@@ -1,0 +1,23 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Keyboard and Mouse
+Comment=Basic Keyboard and Mouse Settings
+Exec=mintinput
+Icon=mouse
+Type=Application
+Encoding=UTF-8
+Categories=Application;Settings
+Name[en_US]=Keyboard and Mouse
+Name[it_IT]=Tastiera e Mouse
+Name[ro_RO]=Tastatura şi Mouse
+Name[es_ES]=Teclado y Ratón
+Name[pt_BR]=Teclado e Mouse
+Name[fr_FR]=Clavier et souris
+Name[fr_CA]=Clavier et souris
+Name[pl_PL]=Klawiatura i mysz
+Name[fi_FI]=Näppäimistö ja hiiri
+Name[ca_CA]=Teclat i Ratolí
+Name[ru_RU]=Клавиатура и Мышь
+Name[uk_UK]=Клавіатура і Миша
+Name[nl_NL]=Toetsenbord en Muis

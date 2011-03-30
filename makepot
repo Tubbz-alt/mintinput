@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xgettext --language=Python --keyword=_ --output=mintinput.pot usr/lib/linuxmint/mintinput/mintInput.py
